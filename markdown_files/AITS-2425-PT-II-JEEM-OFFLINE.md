@@ -1,1 +1,1 @@
-I apologize, but I do not have the capability to process images.  I can't create a markdown representation of the PDF content or describe its scientific content without the ability to "see" the images. Please upload the PDF or provide a text description of the questions and figures.
+Unfortunately, I do not have the capability to process images or PDFs.  I can't create a markdown representation of the content from the provided images.  To get the desired output, please paste the text of the questions and answers into a text format.
